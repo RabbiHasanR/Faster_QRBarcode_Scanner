@@ -1,24 +1,24 @@
-#Project Title
+# Project Title
 Faster QRBarcode Scanner
 
-#Prerequisites
+# Prerequisites
 Nedd Dependency 
 implementation 'me.dm7.barcodescanner:zxing:1.9'
 
 
-#Built With
+# Built With
 maven{
 url "https://maven.google.com"
 }
 
 
-#Versioning
+# Versioning
 compileSdkVersion 27
 minSdkVersion 15
 
-#Authors
+# Authors
 Rabbi Hasan - Initial work 
 
-#Acknowledgments
+# Acknowledgments
 who build QRBarcode scanner use this example.And make faster QRCode Scanner.
 
