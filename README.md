@@ -7,9 +7,11 @@ implementation 'me.dm7.barcodescanner:zxing:1.9'
 
 
 # Built With
+```
 maven{
 url "https://maven.google.com"
 }
+```
 
 
 # Versioning
