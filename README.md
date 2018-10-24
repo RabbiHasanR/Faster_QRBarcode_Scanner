@@ -13,8 +13,21 @@ url "https://maven.google.com"
 
 
 # Versioning
+gradel.build usages:
+```
 compileSdkVersion 27
 minSdkVersion 15
+```
+
+# Usage
+## Add Runtime permission
+Remember to add below permission in Manifest.xml file . And Also add runtime permission for this app. See the sample app.
+```
+ <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+```
 
 # Authors
 Rabbi Hasan - Initial work 
