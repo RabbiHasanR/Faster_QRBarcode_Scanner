@@ -1,6 +1,10 @@
 # Project Title
 Faster QRBarcode Scanner
-
+# Discription
+It's a demo android QRBarcode scanner application.It scan QRCode and show result only.It's a very simple QRCode Scanner .
+## Features
+### Scan QRCode
+### Show Result
 # Prerequisites
 Nedd Dependency 
 implementation 'me.dm7.barcodescanner:zxing:1.9'
